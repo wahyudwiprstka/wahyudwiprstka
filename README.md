@@ -1,6 +1,6 @@
-### I am I Kadek Wahyu Dwi Prastika
+### I Kadek Wahyu Dwi Prastika
 #### College Student & Developer
-I am I Kadek Wahyu Dwi Prastika from Indonesia. I'm a college student at Institut Teknologi dan Bisnis Stikom Bali. I like to code. I have knowledge about some programming languages. I'm still learning about this field.
+I'm I Kadek Wahyu Dwi Prastika from Indonesia. I'm a college student at Institut Teknologi dan Bisnis Stikom Bali. I like to code. I have knowledge about some programming languages. Do not overestimate me because I'm still learning about this field.
 
 Skills: HTML / CSS / Javascript / PHP / C++ / Java / Python
 
