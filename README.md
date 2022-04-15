@@ -2,7 +2,9 @@
 #### College Student & Developer
 I am a college student in Institut Teknologi & Bisnis Stikom Bali. I have some knowledge about programming languages. I'm still learning to code. I like making a website. I have a little bit experience of making a website.
 
-Skills: HTML // CSS // JS // PHP // C++ // JAVA // PYTHON
+#### Skills:
+* 🖥️ HTML, CSS, Javascript
+* 💻 C++, Java, PHP, Python
 
 
 
