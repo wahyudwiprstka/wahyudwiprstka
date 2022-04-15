@@ -1,14 +1,12 @@
-### I Kadek Wahyu Dwi Prastika
+### I am I Kadek Wahyu Dwi Prastika
 #### College Student & Developer
-I'm I Kadek Wahyu Dwi Prastika from Indonesia. I'm a college student at Institut Teknologi dan Bisnis Stikom Bali. I like to code. I have knowledge about some programming languages. Do not overestimate me because I'm still learning about this field.
+I am a college student in Institut Teknologi & Bisnis Stikom Bali. I have some knowledge about programming languages. I'm still learning to code. I like making a website. I have a little bit experience of making a website.
 
-Skills: HTML / CSS / Javascript / PHP / C++ / Java / Python
-
-- 🌱 I’m currently learning Web Development 
-- ⚡ Fun fact: I don't like fruits 
+Skills: HTML // CSS // JS // PHP // C++ // JAVA // PYTHON
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wahyudwiprstka)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wahyudwiprstka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wahyudwiprastika/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wahyudwiprastika/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/WahyuDwiPrastika)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudwiprstka)](https://github.com/anuraghazra/github-readme-stats)
 
