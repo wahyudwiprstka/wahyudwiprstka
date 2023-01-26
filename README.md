@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm I Kadek Wahyu Dwi Prastika</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Bali, Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyudwiprstka&label=Profile%20views&color=0e75b6&style=flat" alt="wahyudwiprstka" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahyudwiprstka" alt="wahyudwiprstka" /></a> </p>
-
 - 📄 My Resume [https://docs.google.com/document/d/1v3YexGLpbco0iz-DoqkaSghypEqVJSL4/edit?usp=sharing&ouid=115201491834333513935&rtpof=true&sd=true](https://docs.google.com/document/d/1v3YexGLpbco0iz-DoqkaSghypEqVJSL4/edit?usp=sharing&ouid=115201491834333513935&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I don't like fruits**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/i-kadek-wahyu-dwi-prastika-497313236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-kadek-wahyu-dwi-prastika-497313236" height="30" width="40" /></a>
 <a href="https://instagram.com/wahyudwiprastika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahyudwiprastika" height="30" width="40" /></a>
 </p>
 
